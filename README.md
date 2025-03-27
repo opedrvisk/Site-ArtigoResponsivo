@@ -9,6 +9,19 @@ O projeto é um pequeno site desenvolvido com HTML e CSS, apresenta uma temátic
 
 **Front-end:** HTML e CSS.
 
+## Documentação de cores
+
+| Cor    Hexadecimal  |
+|  -----------------  | 
+| Cor01   | #E7EFF2   |
+| Cor 02  | #182746   |
+| Cor 03  | #1D2842   |
+| Cor 04  | #0378CC   |
+| Cor 05  | #C65544   |
+| Cor 06  | #d6dbe0   |
+| Cor 07  | #2a478d   |
+
+
 # Funcionalidades
 
 O site apresenta um artigo com breve descrição de um popular grupo musical japonês. Portanto, no header e nav do site, temos o nomes das participantes e suas redes sociais. Quando clicamos, somos redirecionados para elas. O nav possui uma animação através do hover.
