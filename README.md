@@ -11,15 +11,15 @@ O projeto é um pequeno site desenvolvido com HTML e CSS, apresenta uma temátic
 
 ## Documentação de cores
 
-| Cor    Hexadecimal  |
-|  -----------------  | 
-| Cor01   | #E7EFF2   |
-| Cor 02  | #182746   |
-| Cor 03  | #1D2842   |
-| Cor 04  | #0378CC   |
-| Cor 05  | #C65544   |
-| Cor 06  | #d6dbe0   |
-| Cor 07  | #2a478d   |
+| Cor      Hexadecimal  |
+|  ------------------   | 
+| Cor01   | ![#E7EFF2]  |
+| Cor 02  | ![#182746]  |
+| Cor 03  | ![#1D2842]  |
+| Cor 04  | ![#0378CC]  |
+| Cor 05  | ![#C65544]  |
+| Cor 06  | ![#d6dbe0]  |
+| Cor 07  | ![#2a478d]  |
 
 
 # Funcionalidades
